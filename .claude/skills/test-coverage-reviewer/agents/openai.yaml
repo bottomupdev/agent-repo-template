@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Coverage Reviewer"
+  short_description: "Review PR test quality and coverage gaps."
+  default_prompt: "Use $test-coverage-reviewer to review this PR for test quality and coverage gaps without modifying files."

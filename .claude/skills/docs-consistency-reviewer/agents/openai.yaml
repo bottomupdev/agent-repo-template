@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docs Consistency Reviewer"
+  short_description: "Review PR docs, decisions, scope, and architecture consistency."
+  default_prompt: "Use $docs-consistency-reviewer to review this PR for docs, decision-record, product scope, and architecture consistency."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI PR Owner Review"
+  short_description: "Explain an AI-written PR to its owner and separate merge blockers"
+  default_prompt: "Use $ai-pr-owner-review to explain this PR and identify merge blockers and follow-ups; ask interactive teach-back questions only when the owner requests them or an explicit existing gate requires them."

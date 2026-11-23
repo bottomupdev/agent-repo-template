@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Reviewer"
+  short_description: "Senior PR review for architecture and scale."
+  default_prompt: "Use $engineering-reviewer to review this PR for architectural correctness, efficiency, flexibility, and scalability."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Protocol Walkthrough Reviewer"
+  short_description: "Literally execute changed protocol/prompt/workflow docs to find breaks."
+  default_prompt: "Use $protocol-walkthrough-reviewer to walk through the changed protocol, prompt, and workflow docs literally, as one persona per affected runtime and role, hunting sequencing breaks, contradicting or deadlocking rules, unreachable steps, undefined terms, and prompt-vs-bindings inconsistencies."

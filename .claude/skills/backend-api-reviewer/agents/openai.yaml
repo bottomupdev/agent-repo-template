@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend API Reviewer"
+  short_description: "Review backend/API correctness in PRs."
+  default_prompt: "Use $backend-api-reviewer to review this PR for backend/API correctness without modifying files or posting comments."
